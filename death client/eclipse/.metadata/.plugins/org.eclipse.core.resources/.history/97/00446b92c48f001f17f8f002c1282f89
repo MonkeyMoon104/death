@@ -1,0 +1,5 @@
+package me.monleak.gloom.module.combat;
+
+public class KillAura {
+
+}

@@ -1,0 +1,7 @@
+package me.monleak.gloom;
+
+public class Gloom {
+	
+	public static String name = "Gloom", version = "1.8.9", creator = "Monleak";
+
+}

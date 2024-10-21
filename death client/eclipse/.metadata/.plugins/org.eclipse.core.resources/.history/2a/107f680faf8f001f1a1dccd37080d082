@@ -1,0 +1,23 @@
+package me.monleak.gloom;
+
+import org.lwjgl.opengl.Display;
+
+import me.monleak.gloom.module.ModuleManager;
+
+public class Gloom {
+	
+	public static String name = "Gloom", version = "1.8.9", creator = "Monleak";
+	
+	public static ModuleManager moduleManager;
+	
+	public static void startClient() {
+		moduleManager = new ModuleManager();
+		
+		
+		
+		
+		
+		Display.setTitle(name + " " + version + " by " + creator);
+	}
+
+}

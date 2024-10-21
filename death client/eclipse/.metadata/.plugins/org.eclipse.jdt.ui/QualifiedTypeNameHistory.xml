@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.lwjgl.opengl.Display"/>
+    <fullyQualifiedTypeName name="me.monleak.gloom.utils.Wrapper"/>
+    <fullyQualifiedTypeName name="me.monleak.gloom.utils.ColorUtils"/>
+    <fullyQualifiedTypeName name="javax.swing.text.html.parser.Entity"/>
+    <fullyQualifiedTypeName name="org.lwjgl.input.Keyboard"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+    <fullyQualifiedTypeName name="net.minecraft.network.play.client.C03PacketPlayer"/>
+    <fullyQualifiedTypeName name="net.minecraft.network.play.client.C07PacketPlayerDigging"/>
+    <fullyQualifiedTypeName name="net.minecraft.network.play.client.C07PacketPlayerDigging.Action"/>
+    <fullyQualifiedTypeName name="me.monleak.gloom.Gloom"/>
+    <fullyQualifiedTypeName name="me.monleak.gloom.module.Module"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,7 @@
+package me.monleak.gloom.module;
+
+public class Category {
+	
+	COMBAT, MOVEMENT, PLAYER, RENDER, MISC;
+
+}
